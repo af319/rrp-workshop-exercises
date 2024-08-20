@@ -6,3 +6,6 @@
 
 # macOS hidden file
 .DS_Store
+
+# fastq files
+data/raw/fastq
